@@ -73,6 +73,12 @@ include "koneksi_inventaris.php";
                   <p>Stok</p>
                 </a>
               </li> 
+              <li class="nav-item">
+                <a href="logout.php" class="nav-link">
+                  <i class="fas fa-book nav-icon"></i>
+                  <p>Logout</p>
+                </a>
+              </li> 
         </ul>
       </nav>
       <!-- /.sidebar-menu -->
